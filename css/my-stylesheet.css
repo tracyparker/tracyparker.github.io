@@ -2,21 +2,21 @@
  Navbar
 *************************/
 .nav-container {
-	min-height: 115px;
-	background-color: #599a68;
-	border-top: 3px solid #333;
-  border-bottom: 5px solid #333; 
+    min-height: 115px;
+    background-color: #599a68;
+    border-top: 3px solid #333;
+    border-bottom: 5px solid #333; 
 }
 
 .navbar-header {
-	min-width: 20%;
+    min-width: 40%;
 }
 
 a#logo {
-	padding-left: 6%;
-	padding-bottom: 0%;
-	color: #fff; 
-	font-family: 'Lobster';
+    padding-left: 6%;
+    padding-bottom: 0%;
+    color: #fff; 
+    font-family: 'Lobster';
     font-size: 3.5em;
     font-weight: normal;
     line-height: 1.5em;
@@ -51,7 +51,7 @@ a#logo:hover, a#logo:focus {
     color: #fff;
     font-family: 'Open Sans', sans-serif;
     font-size: .85em;
-    text-indent: 8.5%;
+    text-indent: 7.5%;
     margin-bottom: 10px;
     clear: both;
 }
